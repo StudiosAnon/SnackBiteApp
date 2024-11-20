@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Roboto Italic -->
+    <font
+        android:fontStyle="italic"
+        android:fontWeight="400"
+        android:font="@font/robotoitalic" />
+
+    <!-- Roboto Thin -->
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="100"
+        android:font="@font/robotothin" />
+
+    <!-- Roboto Thin Italic -->
+    <font
+        android:fontStyle="italic"
+        android:fontWeight="100"
+        android:font="@font/robotothinitalic" />
+
+    <!-- Roboto Light -->
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="300"
+        android:font="@font/robotolight" />
+
+    <!-- Roboto Light Italic -->
+    <font
+        android:fontStyle="italic"
+        android:fontWeight="300"
+        android:font="@font/robotolightitalic" />
+
+    <!-- Roboto Regular -->
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        android:font="@font/robotoregular" />
+
+    <!-- Roboto Medium -->
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="500"
+        android:font="@font/robotomedium" />
+
+    <!-- Roboto Medium Italic -->
+    <font
+        android:fontStyle="italic"
+        android:fontWeight="500"
+        android:font="@font/robotomediumitalic" />
+
+    <!-- Roboto Bold -->
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="700"
+        android:font="@font/robotobold" />
+
+    <!-- Roboto Bold Italic -->
+    <font
+        android:fontStyle="italic"
+        android:fontWeight="700"
+        android:font="@font/robotobolditalic" />
+
+    <!-- Roboto Black -->
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="900"
+        android:font="@font/robotoblack" />
+
+    <!-- Roboto Black Italic -->
+    <font
+        android:fontStyle="italic"
+        android:fontWeight="900"
+        android:font="@font/robotoblackitalic" />
+
+</font-family>
